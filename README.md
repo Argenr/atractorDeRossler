@@ -10,9 +10,15 @@ Este código resuelve las ecuaciones diferenciales del atractor de Rössler util
 
 El sistema de ecuaciones diferenciales del atractor de Rössler es el siguiente:
 
-- \( \frac{dx}{dt} = -y - z \)
-- \( \frac{dy}{dt} = x + a y \)
-- \( \frac{dz}{dt} = b + z(x - c) \)
+\[
+\frac{dx}{dt} = -y - z
+\]
+\[
+\frac{dy}{dt} = x + a y
+\]
+\[
+\frac{dz}{dt} = b + z(x - c)
+\]
 
 Donde:
 - \( a \), \( b \), y \( c \) son parámetros del sistema.
